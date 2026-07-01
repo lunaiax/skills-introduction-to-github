@@ -2,18 +2,18 @@
    Базовые переменные — меняйте цвета/шрифты здесь
    ============================================================ */
 :root {
-  --color-primary: #1f4e79;      /* основной фирменный цвет */
-  --color-primary-dark: #163a5a;
-  --color-accent: #f0a500;       /* акцент (кнопки, ссылки) */
-  --color-text: #222833;
-  --color-muted: #5b6470;
+  --color-primary: #2f5d3a;      /* чайный зелёный */
+  --color-primary-dark: #24482d;
+  --color-accent: #c8992e;       /* тёплое золото/янтарь */
+  --color-text: #2b2620;
+  --color-muted: #6b6357;
   --color-bg: #ffffff;
-  --color-bg-alt: #f5f7fa;
-  --color-border: #e2e8f0;
+  --color-bg-alt: #f6f3ec;       /* тёплый бежевый фон */
+  --color-border: #e6e0d4;
   --max-width: 1140px;
   --radius: 10px;
-  --shadow: 0 6px 24px rgba(20, 40, 70, 0.08);
-  --font: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --shadow: 0 6px 24px rgba(47, 93, 58, 0.10);
+  --font: "Georgia", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 /* ============================================================
@@ -177,7 +177,7 @@ p { color: var(--color-muted); }
 .card__icon {
   width: 52px; height: 52px;
   border-radius: 12px;
-  background: rgba(31,78,121,.1);
+  background: rgba(47,93,58,.1);
   color: var(--color-primary);
   display: flex; align-items: center; justify-content: center;
   font-size: 1.5rem;
@@ -227,7 +227,7 @@ p { color: var(--color-muted); }
 .form-field textarea:focus {
   outline: none;
   border-color: var(--color-primary);
-  box-shadow: 0 0 0 3px rgba(31,78,121,.12);
+  box-shadow: 0 0 0 3px rgba(47,93,58,.12);
 }
 
 /* ============================================================
