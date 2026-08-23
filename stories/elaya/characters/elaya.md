@@ -14,6 +14,9 @@ locations:
   - aunt-mareaus-room
   - the-post-office
   - the-bus-shelter
+  - the-candy-bar
+  - the-elevator
+  - the-pool-terrace
 tags:
   - gloved
   - observer
