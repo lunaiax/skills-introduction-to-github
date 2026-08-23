@@ -28,6 +28,17 @@ wobble kills the whole Anderson grammar.
 static wides, so the series needs to know that a locked-off shot with only wind in
 it does not read as a still image with a glitch.
 
+## Correction to carry forward
+
+**These three clips did not carry the Elaya element** — they were driven by
+`start_image` alone. Her face survives because the start frame is a correct
+render, but the element should have been passed as well, and `kling3_0` accepts
+both together.
+
+From here every generation with Elaya in it carries
+`<<<69639e42-554b-41a5-a8a2-37589d96b5d4>>>` in the prompt. See
+`art-direction.md` §1A.
+
 ## Practical notes
 
 - **Preset interception.** Kling intercepted clips 1 and 3 on first submission,

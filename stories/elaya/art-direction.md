@@ -86,6 +86,47 @@ we show the same room with nobody in it.
 
 ---
 
+## 1A. The Elaya element — MANDATORY
+
+**Every generation containing Elaya must carry the element. No exceptions.**
+
+```
+Element: Elaya
+ID:      69639e42-554b-41a5-a8a2-37589d96b5d4
+Usage:   embed <<<69639e42-554b-41a5-a8a2-37589d96b5d4>>> inside the prompt text
+```
+
+The placeholder goes **inside `params.prompt`**, not in `medias`. The backend
+injects the reference and rewrites it to `@Elaya`. Multiple placeholders per
+prompt are allowed.
+
+Without it her face drifts shot to shot, and a series whose protagonist changes
+face between frames has nothing.
+
+### Which models accept it
+
+| Type | Models |
+|---|---|
+| Image | `nano_banana_pro`, `nano_banana_2`, `gpt_image_2`, `seedream_v4_5`, `seedream_v5_lite`, `cinematic_studio_2_5` |
+| Video | `cinematic_studio_video_v2`, `cinematic_studio_3_0`, `seedance_2_0`, `kling3_0` |
+
+**Not** `soul_cinematic` or `soul_2` — those take a trained Soul instead, and we do
+not have one for Elaya. This is why the location plates were shot on Soul Cinema
+and every shot with her in it is on Cinema Studio 2.5.
+
+### Video specifically
+
+`kling3_0` accepts the element **and** `start_image` together. Use both:
+`start_image` holds the set, framing and palette; the element holds her face
+through the motion. Passing only the start image works but lets her drift as the
+clip moves.
+
+### Costume still gets described
+
+The element carries face, hair and build. It does not reliably carry wardrobe, so
+every prompt still spells out: butter-cream gown with enormous puffed sleeves,
+powder-blue ribbon bow at the throat, dusty pink opera gloves to the elbow.
+
 ## 2. Palette (locked)
 
 | Role | Colour | Hex |
