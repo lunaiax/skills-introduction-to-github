@@ -35,6 +35,16 @@ None of that survives this pivot and the chapter needs rewriting. See §7.
 
 **Confectionery grand hotel.** Wes Anderson maximalism in an alpine valley.
 
+**Outside is Jugendstil. Inside is baroque.** The shell is Art Nouveau — curved
+bays, iron tracery, organic scrollwork, monochrome pink. Step through the door and
+it becomes gilded eighteenth-century splendour: carved and gilt plasterwork,
+cartouches, scrolled acanthus, putti, mirrored panels in gilt frames, marble
+columns, painted cloud ceilings, ormolu, crystal, damask, parquet.
+
+This is an eclectic building and grand hotels of the period genuinely were. Do not
+reconcile the two — the contrast between the organic exterior and the gilded
+interior is a feature.
+
 The building is not faded. It is *immaculate* — polished, lit, chandeliered,
 fresh flowers in the hall, every one of its rooms perfect. And almost nobody
 comes.
@@ -46,8 +56,14 @@ poured into making things lovely for other people, in exchange for nothing.
 
 ### Three rules
 
-**Saturated, never muted.** Rose pink and sage green at full strength, gold as a
-structural colour rather than an accent. If a frame reads dusty, it is wrong.
+**Saturated, never muted.** Colour at full strength, gold as a structural material
+rather than an accent. If a frame reads dusty, it is wrong.
+
+**Monochrome outside, polychrome inside.** The exterior is pink on pink on pink
+with no contrasting trim. The interiors are the opposite: **every room has its own
+colour pair**, and the hotel should feel like walking through a box of different
+sweets. A pink hall, a green kitchen, a raspberry dining room, a blue corridor. One
+room never repeats another's scheme.
 
 **Warm light indoors, clear light outdoors.** Chandeliers, brass sconces, lamps
 with silk shades — interiors glow from their own fittings. Exteriors are bright
@@ -95,16 +111,30 @@ about milky blacks is retired.
 
 Append verbatim to every location prompt.
 
+**Interiors:**
+
 ```text
-Style: Wes Anderson confectionery maximalism, richly saturated pastels, shot on
-Kodak Ektachrome, crisp and clean. Palette of shell pink, rose, sage green,
-powder blue, butter cream and polished gold, with black-and-cream marble
-checkerboard. Warm interior light from chandeliers, brass sconces and silk-shaded
-lamps; exteriors bright under a pale clear sky. Painted and built surfaces —
-chinoiserie murals, stained glass, fluted glass, velvet with ball fringe.
+Style: opulent baroque interior, Wes Anderson confectionery maximalism, richly
+saturated colour, shot on Kodak Ektachrome, crisp and clean, photographic. Carved
+and gilded plasterwork, scrolled acanthus and cartouches, putti, mirrored panels
+in gilt frames, marble columns, a painted ceiling of sky and clouds, ormolu,
+crystal chandeliers, damask and passementerie, parquet and marble floors. Warm
+light from chandeliers, gilt sconces and silk-shaded lamps. Perfectly symmetrical
+flat frontal composition, dead-centre vanishing point, wide-angle lens close to
+the subject with slight barrel distortion. Deep focus. Doll's-house precision.
+Format: 16:9.
+```
+
+Append the room's colour pair from §3A to this. Never render an interior without
+naming its two colours.
+
+**Exteriors:**
+
+```text
+Style: photographic, richly saturated pastels, shot on Kodak Ektachrome, crisp and
+clean, real light and real material. Bright clean daylight under a pale clear sky.
 Perfectly symmetrical flat frontal composition, dead-centre vanishing point,
-wide-angle lens close to the subject with slight barrel distortion. Deep focus.
-Doll's-house precision. Format: 16:9.
+wide-angle lens with slight barrel distortion. Deep focus. Format: 16:9.
 ```
 
 Why each clause: *Ektachrome* replaces Portra — it gives saturated, clean,
@@ -115,6 +145,24 @@ the built, miniature quality. Wide-close-distorted and deep focus carry over fro
 v1 unchanged.
 
 ---
+
+## 3A. Room colour assignments (locked)
+
+Each interior owns a scheme. Never blend them, never default everything to pink.
+
+| Room | Dominant | Second | Metal |
+|---|---|---|---|
+| Entrance hall | Shell pink | Black-and-cream marble | Gold |
+| Kitchen | Sage green | Cream | Copper and brass |
+| Dining room | Raspberry rose | Cream linen | Gold |
+| Upper corridor | Powder blue | Cream | Gold |
+| Room four | Butter yellow | Rose | Gold |
+| Room eleven | Sage green stripe | Cream | Gold |
+| Candy Bar | Rose pink | Powder blue tile | Gold |
+| Winter garden | Green foliage | Rose | White-painted iron |
+| Linen room | *no scheme* | — | — |
+
+The linen room is exempt from everything. It is the one room with no beauty in it.
 
 ## 4. Staging rules
 
