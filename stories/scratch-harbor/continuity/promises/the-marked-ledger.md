@@ -1,10 +1,12 @@
 ---
 title: The Marked Ledger
-status: planned
+status: planted
 planted: chapter-01
 payoff: ""
-arcs: []
-characters: []
+arcs:
+  - the-ledger-debt
+characters:
+  - wren-adler
 ---
 
 # The Marked Ledger

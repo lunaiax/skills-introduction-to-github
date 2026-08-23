@@ -9,4 +9,4 @@ story: scratch-harbor
 
 | Promise | Status | Planted | File |
 |---------|--------|---------|------|
-| The Marked Ledger | planned | chapter-01 | [the-marked-ledger](the-marked-ledger.md) |
+| The Marked Ledger | planted | chapter-01 | [the-marked-ledger](the-marked-ledger.md) |

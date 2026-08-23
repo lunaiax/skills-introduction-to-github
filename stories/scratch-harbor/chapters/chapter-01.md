@@ -1,10 +1,13 @@
 ---
 title: The Tide Book
 number: 1
-pov: ""
-locations: []
-characters: []
-arcs-advanced: []
+pov: wren-adler
+locations:
+  - grey-docks
+characters:
+  - wren-adler
+arcs-advanced:
+  - the-ledger-debt
 status: outline
 word-count: 0
 ---

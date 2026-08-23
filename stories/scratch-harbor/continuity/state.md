@@ -1,10 +1,13 @@
 ---
 type: continuity-state
 story: scratch-harbor
-current-chapter: 0
+current-chapter: 1
 character-state: []
 object-state: []
-knowledge-state: []
+knowledge-state:
+  - character: wren-adler
+    knows: The last tide-book entry is dated after the Ledger Office closed
+    learned-in: chapter-01
 ---
 
 # Continuity State
@@ -29,4 +32,4 @@ Track facts that must carry forward between chapters.
 
 | Character | Knows | Learned In |
 |-----------|-------|------------|
-| *No knowledge entries yet* | | |
+| Wren Adler | The last tide-book entry is dated after the Ledger Office closed | chapter-01 |

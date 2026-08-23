@@ -9,4 +9,4 @@ story: scratch-harbor
 
 | Chapter | Scene | Title | POV | Status | File |
 |---------|-------|-------|-----|--------|------|
-| chapter-01 | 1 | Wren Counts the Losses |  | outline | [chapter-01-scene-01](chapter-01-scene-01.md) |
+| chapter-01 | 1 | Wren Counts the Losses | wren-adler | draft | [chapter-01-scene-01](chapter-01-scene-01.md) |
