@@ -10,6 +10,7 @@ story: the-small-errands-of-elaya
 | Name | Role | Status | File |
 |------|------|--------|------|
 | Elaya | protagonist | alive | [elaya](elaya.md) |
+| Tobin | deuteragonist | alive | [tobin](tobin.md) |
 
 ## Relationship Map
 

@@ -40,6 +40,17 @@ Rules the series keeps:
   around it.
 - **No swelling music at the end.** The endings are small on purpose.
 
+## Format
+
+Prose, not screenplay. Ten episodes as prose chapters, present tense, third
+limited on Elaya with a narrator who stands slightly outside her.
+
+The narrator is the engine and needs a firm rule: **it states facts about objects
+and withholds facts about feelings.** "That bell has been rung four times in thirty
+years" is the register. "She felt alone in the big house" is not, ever. The reader
+does the feeling; the narrator does the inventory. Where the narrator states an
+arithmetic Elaya is also doing, it may say so.
+
 ## Structure
 
 Ten episodes. Episodic on the surface — one errand per episode — with a single

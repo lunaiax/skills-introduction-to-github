@@ -9,7 +9,7 @@ story: the-small-errands-of-elaya
 
 | # | Title | POV | Status | Word Count | File |
 |---|-------|-----|--------|------------|------|
-| 1 | The One Bell That Rings | elaya | outline | 495 | [chapter-01](chapter-01.md) |
+| 1 | The One Bell That Rings | elaya | draft | 1499 | [chapter-01](chapter-01.md) |
 | 2 | The Wrong Yellow | elaya | outline | 55 | [chapter-02](chapter-02.md) |
 | 3 | A Letter Not Addressed to Her | elaya | outline | 55 | [chapter-03](chapter-03.md) |
 | 4 | The Man Who Counts Back | elaya | outline | 56 | [chapter-04](chapter-04.md) |
@@ -20,4 +20,4 @@ story: the-small-errands-of-elaya
 | 9 | Someone Asks | elaya | outline | 57 | [chapter-09](chapter-09.md) |
 | 10 | Around the Gate | elaya | outline | 54 | [chapter-10](chapter-10.md) |
 
-## Total Word Count: 987
+## Total Word Count: 1991
