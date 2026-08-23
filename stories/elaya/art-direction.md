@@ -36,13 +36,22 @@ and the one that makes the series look like itself.
 |---|---|---|
 | Palette | saturated red and green | desaturated cream, blue, pink |
 | Light | warm, hard, high-key | cool, diffuse, no shadow |
-| Lens | wide, close, distorted | flat, frontal, at distance |
-| Camera | whip pans, fast push | static or very slow |
+| Lens | wide, close, distorted | **wide, close, distorted** |
+| Camera | whip pans, fast push | **whip pans, fast push** |
 | Feel | delighted | fond, and a little sad |
 
-Same engine — a whimsical fixer of other people's lives. Opposite temperature.
-When a shot feels too charming, cool it down; when it feels grim, the answer is
-never warmth, it is *symmetry*.
+Two rows now match on purpose. The camera grammar is Jeunet's outright — wide
+lenses, close to faces, whip pans between compositions, fast push-ins — because
+that kinetic hand is the most recognisable thing about the reference and there is
+no reason to give it up.
+
+What still separates the two is **palette and light**, and those now carry the
+whole distinction alone. So they must be held absolutely: any drift warm, any
+hard shadow, any saturation, and this stops being its own thing and becomes an
+Amelie pastiche. The rule tightens rather than relaxes.
+
+Same engine, same hand, opposite temperature. When a shot feels too charming,
+cool it down; when it feels grim, the answer is never warmth, it is *symmetry*.
 
 ---
 
@@ -73,24 +82,36 @@ Style: desaturated storybook realism, shot on Kodak Portra 400, fine grain, soft
 overcast daylight with even diffusion and no hard shadows, milky blacks and
 rolled-off highlights. Palette limited to faded Schönbrunn yellow, powder blue,
 dusty rose, rust brown, grey-green meadow white and slate. Flat frontal
-composition, symmetrical, camera at a respectful distance. Deep focus.
+composition, symmetrical, wide-angle lens close to the subject with slight
+barrel distortion at the frame edges. Deep focus.
 Format: 16:9.
 ```
 
 Notes on why each clause is there: *Portra 400* gives pastel highlights and
 truthful skin without saturation; *overcast, even diffusion* enforces the light
-rule; *flat frontal, symmetrical* enforces staging; *deep focus* keeps the house
-legible, since the house's excessive size is a running character point and
-shallow focus hides it.
+rule; *flat frontal, symmetrical* enforces staging; *wide-angle close with slight
+barrel distortion* is the Jeunet lens, and it is what a still frame can carry of a
+kinetic camera; *deep focus* keeps the house legible, since the house's excessive
+size is a running character point and shallow focus hides it.
+
+Deep focus survives the change — Jeunet shoots deep too, so wide-and-close and
+everything-sharp are not in conflict here.
 
 ---
 
 ## 4. Staging rules
 
-- **Frontal and centred.** Doors, gates, corridors and facades are shot square
-  on. The world is composed like a picture book plate.
-- **Elaya is small in her own house.** In any villa interior where she is alone,
-  she occupies less than a fifth of the frame height. The room is the subject.
+- **Frontal and centred — and this survives the kinetic camera.** Doors, gates,
+  corridors and facades are shot square on. The whip pan does not break symmetry;
+  it *snaps from one centred composition to another*, which is exactly how Jeunet
+  uses it. Composed like a picture book whose pages are turned hard.
+- **Wide and close.** The lens is short and near the subject, with mild barrel
+  distortion at the edges. Faces fill frame more than is comfortable.
+- **Elaya is small in her own house — as a destination, not a default.** In villa
+  interiors where she is alone, the wide composition holds her at less than a fifth
+  of frame height and the room is the subject. The fast push-in then travels *to*
+  her. Establish the emptiness, then close on the person in it; that move is now
+  the series' basic sentence.
 - **One shot through the meadow gate per episode.** Episode 10 is the exception,
   and the exception is the point.
 - **Nothing is quaint.** No hanging baskets, no bunting, no chocolate-box
@@ -216,10 +237,40 @@ Canon: episode 2 is the mismatch and its correction. The wrong yellow must be
 
 ---
 
+## 5A. Motion vocabulary
+
+For the video and animatic pass. Stills cannot contain a camera move — a still
+carries the *lens* (wide, close, distorted) and the *framing at the end of the
+move*, never motion blur. Do not prompt "whip pan" into a still image; prompt the
+composition it lands on.
+
+The moves, in the order they earn their place:
+
+- **Whip pan between centred compositions.** The workhorse. Object to face, face
+  to object. Always lands square on. Never lands on an off-centre frame.
+- **Fast push-in on a held wide.** The empty room, then hard in to Elaya. This is
+  the series' signature move and should appear at least once an episode.
+- **Snap-back.** Push in, cut back out to the same wide, nothing changed. Elaya's
+  cowardice rendered as camera grammar. Reserve it for episodes 6 and 7.
+- **Insert whip.** Narrator names an object; the camera snaps to it and holds one
+  beat too long. This is how the bell board, the blank tab and the gloves get
+  their coverage without dialogue.
+
+What the camera does *not* do: handheld, drift, dolly for its own sake, or slow
+motion. Every move is fast, motivated, and ends locked off. Between moves the
+frame is completely still — the stillness is what makes the moves land.
+
+**Episode 10 exception.** The final sequence gives up the whip pan entirely and
+plays in long static wides. Somebody walks around the gate, and the camera does
+not chase them.
+
 ## 6. Continuity checklist for any new image
 
-- Overcast. No sun, no shadow, no golden hour.
+- Overcast. No sun, no shadow, no golden hour. **This rule now carries twice the
+  weight it did, since the camera no longer distinguishes us from the reference.**
 - Frontal and symmetrical unless there is a reason.
+- Wide lens, close in, mild barrel distortion at the edges.
+- No motion blur in a still. The still is where a move *lands*.
 - Palette inside the eight locked colours.
 - Gloves on, unremarked.
 - If the villa is in frame, it is too big for whoever is in it.
