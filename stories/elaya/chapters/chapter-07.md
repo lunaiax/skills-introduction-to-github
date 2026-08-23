@@ -7,11 +7,13 @@ locations:
   - the-meadow-gate
 characters:
   - elaya
+  - tobin
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 53
 ---
+
 
 
 
@@ -33,6 +35,10 @@ The cowardice episode. Everything she is good at, deployed precisely to avoid he
 3. Elaya observes, decides, and acts sideways.
 4. The errand lands on someone who does not know its source.
 5. Button — one shot through the meadow gate.
+
+## Unease
+
+She arranges a perfect evening for two strangers and watches it from outside.
 
 ## Series Thread
 

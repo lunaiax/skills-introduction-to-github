@@ -6,6 +6,7 @@ population: ""
 controlled-by: ""
 notable-characters:
   - elaya
+  - nadja-reuss
 tags: []
 status: standing
 ---

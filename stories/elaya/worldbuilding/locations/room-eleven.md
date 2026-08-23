@@ -6,6 +6,7 @@ population: ""
 controlled-by: ""
 notable-characters:
   - elaya
+  - havel
 tags: []
 status: standing
 ---

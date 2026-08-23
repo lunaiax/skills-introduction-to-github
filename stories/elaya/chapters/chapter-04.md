@@ -7,11 +7,13 @@ locations:
   - the-meadow-gate
 characters:
   - elaya
+  - tobin
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 56
 ---
+
 
 
 
@@ -33,6 +35,10 @@ Plant the romance without either naming it. He asks nothing about the gloves and
 3. Elaya observes, decides, and acts sideways.
 4. The errand lands on someone who does not know its source.
 5. Button — one shot through the meadow gate.
+
+## Unease
+
+Tobin recites a detail about her he has no ordinary way of knowing.
 
 ## Series Thread
 

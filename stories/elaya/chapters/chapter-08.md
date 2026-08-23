@@ -7,11 +7,14 @@ locations:
   - the-meadow-gate
 characters:
   - elaya
+  - anselm-ruck
+  - frau-oberst
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 54
 ---
+
 
 
 
@@ -33,6 +36,10 @@ Forces the locked room open. She goes in. What is in it is ordinary, which is wo
 3. Elaya observes, decides, and acts sideways.
 4. The errand lands on someone who does not know its source.
 5. Button — one shot through the meadow gate.
+
+## Unease
+
+The drawer in the linen room is opened on camera. Forty labelled objects.
 
 ## Series Thread
 

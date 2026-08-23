@@ -7,11 +7,14 @@ locations:
   - the-meadow-gate
 characters:
   - elaya
+  - nadja-reuss
+  - doro
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 54
 ---
+
 
 
 
@@ -33,6 +36,10 @@ The counter-episode. Elaya learns her interventions were never the mechanism. De
 3. Elaya observes, decides, and acts sideways.
 4. The errand lands on someone who does not know its source.
 5. Button — one shot through the meadow gate.
+
+## Unease
+
+She does nothing and it happens anyway. The horror is that she is optional.
 
 ## Series Thread
 

@@ -7,11 +7,14 @@ locations:
   - the-meadow-gate
 characters:
   - elaya
+  - tobin
+  - havel
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 54
 ---
+
 
 
 
@@ -33,6 +36,10 @@ Payoff of the gloves and the gate motif together. The ending should be small: a 
 3. Elaya observes, decides, and acts sideways.
 4. The errand lands on someone who does not know its source.
 5. Button — one shot through the meadow gate.
+
+## Unease
+
+None. Episode 10 is the one that lets you breathe, and that is its effect.
 
 ## Series Thread
 

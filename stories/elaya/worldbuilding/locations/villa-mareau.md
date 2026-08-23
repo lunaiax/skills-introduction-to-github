@@ -5,7 +5,12 @@ region: the valley
 population: "six in season, two out of it"
 controlled-by: elaya
 notable-characters:
+  - anselm-ruck
+  - aunt-mareau
+  - doro
   - elaya
+  - havel
+  - nadja-reuss
   - tobin
 tags:
   - inherited

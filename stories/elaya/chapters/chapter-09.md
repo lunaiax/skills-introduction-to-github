@@ -7,11 +7,14 @@ locations:
   - the-meadow-gate
 characters:
   - elaya
+  - tobin
+  - peter-lind
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 57
 ---
+
 
 
 
@@ -33,6 +36,10 @@ The whole series inverts: for the first time, the errand is done FOR her, anonym
 3. Elaya observes, decides, and acts sideways.
 4. The errand lands on someone who does not know its source.
 5. Button — one shot through the meadow gate.
+
+## Unease
+
+The ledger. Eleven years, fifty-one entries, her secret life in his hand.
 
 ## Series Thread
 

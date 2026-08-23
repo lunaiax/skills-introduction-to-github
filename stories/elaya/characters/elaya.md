@@ -7,6 +7,10 @@ aliases:
 relationships:
   - character: tobin
     type: slow
+  - character: aunt-mareau
+    type: raised-by
+  - character: doro
+    type: household
 locations:
   - villa-mareau
   - the-meadow-gate
@@ -17,9 +21,11 @@ locations:
   - the-candy-bar
   - the-elevator
   - the-pool-terrace
+  - the-linen-room
 tags:
   - gloved
   - observer
+  - protagonist
 arc: what-the-gloves-hide
 ---
 
@@ -27,49 +33,79 @@ arc: what-the-gloves-hide
 
 ## Appearance
 
-Mid-twenties. Fair, with the kind of pale skin that shows every feeling at the
-cheekbones before she has decided to have it. Ash-blonde hair pinned up loosely,
-always coming down by evening. Grey-green eyes, dark natural brows that give her
-a seriousness her mouth keeps undoing.
+Mid-twenties. Fair, with skin that shows every feeling at the cheekbones before
+she has decided to have it. Ash-blonde, pinned up loosely, always coming down by
+evening. Grey-green eyes, dark natural brows that give her a seriousness her mouth
+keeps undoing.
 
-She dresses as though for a photograph nobody is taking: a butter-cream gown with
-enormous puffed sleeves, a powder-blue ribbon tied at the throat in a bow too big
-to be modest, and — always, without exception — pink opera gloves to the elbow.
+Butter-cream gown with enormous puffed sleeves, powder-blue ribbon tied at the
+throat, and pink opera gloves to the elbow. Always.
 
-The gloves are the fact everyone notices and nobody asks about.
+**She is dressed as the hotel.** Her colours are its colours. In any room she
+reads as part of the decor rather than a figure against it — which is another way
+of saying nobody sees her, and she arranged it that way.
 
-## Personality & Traits
+## What She Actually Does All Day
 
-Elaya is a watcher. She knows which of the village's letterboxes stick, whose
-shutters are painted the wrong yellow, which of the guests at the villa cries in
-the morning and which cries at night. She files all of it, and she acts on it —
-sideways, anonymously, leaving small rearrangements behind her like a cat leaving
-things on a doorstep.
+She is not idle and she is not sad. She has a full, absorbing, entirely private
+life, and almost none of it involves other people.
 
-She is enormously brave on other people's behalf and a coward on her own. She can
-engineer a reconciliation between two people who have not spoken in eleven years
-and cannot say a direct sentence about herself to a man who is plainly waiting to
-hear one.
+- **She continues the Register.** Her aunt kept the hotel's guest book from 1911
+  in a single running hand. Elaya has continued it in the same hand — she taught
+  herself the forgery at eleven — and she has read the whole thing. She knows
+  every person who has ever slept in this building. She has favourites. Most of
+  them are dead.
+- **She presses flowers** from the meadow, dates them, and files them against the
+  Register by the week the guest stayed. She can tell you what was in bloom when
+  anyone checked in.
+- **She keeps the inventory.** Every object in twenty-two rooms, listed, with
+  condition notes. She updates it obsessively. It is the closest thing she has to
+  a religion.
+- **She talks to the building.** Not to herself — to the building. Instructions,
+  mostly. Apologies when something breaks.
 
-Habits: she counts things under her breath when nervous. She never sits on chairs
-properly, always on the arm or the edge. She reads other people's discarded
-letters from the villa's wastebaskets and feels no guilt about it whatsoever.
+## Tics
+
+- Counts under her breath when thinking — *four, five, six* — and cannot stop once
+  started.
+- Never sits properly in a chair. The arm, the edge, the windowsill, the stairs.
+- Touches doorframes on the way through. Both sides.
+- Rewrites any note she writes at least three times, then usually burns it.
+- Cannot leave a crooked picture. Will cross a room mid-sentence.
+
+## Negative traits — the real ones
+
+These are not charming quirks and the series must not play them as charming.
+
+- **She reads other people's letters.** Discarded ones from the wastebaskets,
+  unsent ones from bedside drawers, and — increasingly — sealed ones, steamed and
+  resealed. She feels no guilt. She has never once considered that she should.
+- **She lies constantly and fluently.** Small lies, mostly kindly meant, some for
+  no reason at all. She lies about the weather. She has lied to Doro every day for
+  a year about the accounts.
+- **She takes things.** A drawer in the linen room holds objects removed from
+  guests over fifteen years — a button, a hairpin, a bus ticket, a child's tooth.
+  Nothing valuable, ever. She is stealing *evidence that people existed*, and if
+  anyone found the drawer it would be the end of her.
+- **She is a snob.** She thinks the village is small and its people smaller, and
+  the errands she performs for them are, underneath the kindness, condescension.
+  She is helping *down*.
+- **She has a temper she has never shown a living soul.** Once a year, alone, she
+  breaks something on purpose and then repairs it perfectly.
 
 ## Backstory
 
-She came to Villa Mareau at nine, after, and stayed. Her aunt Mareau raised her in
-a house built for forty guests and rarely holding six, and taught her to be useful
-and unseen in the same gesture. The aunt is a year dead when the series opens, and
-the villa is Elaya's — a fact she has told nobody in the village, who all still
-speak of the house as belonging to someone else.
+Came to Villa Mareau at nine, after. Raised by Aunt Mareau in a hotel built for
+forty and rarely holding six. Taught to be useful and unseen in the same gesture.
+
+The aunt is a year dead. The hotel is Elaya's, and she has told nobody in the
+village, who all still speak of it as belonging to someone else.
 
 ## The Gloves
 
-She has worn them since she was nine. The villa's people have stopped asking. The
-audience should not.
+Worn since she was nine. The village stopped asking. The audience should not.
 
-The truthful answer is not disfigurement and not vanity, and the series should
-resist both of those readings for as long as it can. It is closer to a promise
-made to someone who is no longer alive to release her from it.
+Not disfigurement, not vanity — the series must resist both readings as long as it
+can. Closer to a promise made to someone no longer alive to release her from it.
 
 Answered in episode 10. Referenced in every episode before it.

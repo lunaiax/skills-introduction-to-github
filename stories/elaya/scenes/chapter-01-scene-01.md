@@ -28,3 +28,5 @@ fact, and the blank tab as the object the episode will chase.
 - The blank tab was rubbed smooth deliberately, over years, by Aunt Mareau.
 - Elaya has never asked about it. Plants `the-pink-gloves` by showing them in use
   without comment.
+- The hotel is immaculate and empty: forty places laid, thirty-seven cleared
+  unused each night. The lift works and she takes the stairs.

@@ -5,6 +5,8 @@ region: the valley
 population: ""
 controlled-by: ""
 notable-characters:
+  - anselm-ruck
+  - aunt-mareau
   - elaya
 tags: []
 status: unknown

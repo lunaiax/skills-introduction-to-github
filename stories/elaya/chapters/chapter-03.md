@@ -7,11 +7,13 @@ locations:
   - the-meadow-gate
 characters:
   - elaya
+  - tobin
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 55
 ---
+
 
 
 
@@ -33,6 +35,10 @@ Raises the ethics: she is helping and she is trespassing, and the episode refuse
 3. Elaya observes, decides, and acts sideways.
 4. The errand lands on someone who does not know its source.
 5. Button — one shot through the meadow gate.
+
+## Unease
+
+She steams open a sealed letter, reads it, and reseals it perfectly.
 
 ## Series Thread
 

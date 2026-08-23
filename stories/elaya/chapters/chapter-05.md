@@ -7,11 +7,14 @@ locations:
   - the-meadow-gate
 characters:
   - elaya
+  - tobin
+  - the-kessler-brothers
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 54
 ---
+
 
 
 
@@ -33,6 +36,10 @@ The high-water mark of her powers, and the first time an errand nearly fails. Mi
 3. Elaya observes, decides, and acts sideways.
 4. The errand lands on someone who does not know its source.
 5. Button — one shot through the meadow gate.
+
+## Unease
+
+The reconciliation works, and the lie that achieved it was cruel.
 
 ## Series Thread
 

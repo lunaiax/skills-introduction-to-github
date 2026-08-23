@@ -18,6 +18,7 @@ story: the-small-errands-of-elaya
 | The Bus Shelter | Landmark | the valley | [the-bus-shelter](locations/the-bus-shelter.md) |
 | The Candy Bar | Building | the valley | [the-candy-bar](locations/the-candy-bar.md) |
 | The Elevator | Landmark | the valley | [the-elevator](locations/the-elevator.md) |
+| The Linen Room | Building | the valley | [the-linen-room](locations/the-linen-room.md) |
 | The Meadow Gate | Landmark | the valley | [the-meadow-gate](locations/the-meadow-gate.md) |
 | The Pool Terrace | Landmark | the valley | [the-pool-terrace](locations/the-pool-terrace.md) |
 | The Post Office | Building | the valley | [the-post-office](locations/the-post-office.md) |
@@ -40,3 +41,4 @@ story: the-small-errands-of-elaya
 | Name | Type | Status | File |
 |------|------|--------|------|
 | The Bell Board | Object | active | [the-bell-board](artifacts/the-bell-board.md) |
+| The Register | Artifact | intact | [the-register](artifacts/the-register.md) |

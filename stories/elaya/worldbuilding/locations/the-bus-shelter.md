@@ -6,6 +6,8 @@ population: ""
 controlled-by: ""
 notable-characters:
   - elaya
+  - frau-oberst
+  - peter-lind
 tags: []
 status: standing
 ---

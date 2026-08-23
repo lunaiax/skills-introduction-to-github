@@ -5,8 +5,10 @@ region: the valley
 population: ""
 controlled-by: ""
 notable-characters:
-  - tobin
   - elaya
+  - frau-oberst
+  - the-kessler-brothers
+  - tobin
 tags: []
 status: standing
 ---

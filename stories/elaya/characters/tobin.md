@@ -12,6 +12,7 @@ locations:
 tags:
   - postmaster
   - counter
+  - cold
 arc: what-the-gloves-hide
 ---
 
@@ -19,34 +20,60 @@ arc: what-the-gloves-hide
 
 ## Appearance
 
-Forties. Built like someone who carries things up hills for a living, which he
-does. Wears the same grey coat in every season and takes it off indoors with a
-formality that is almost funny.
+Forties. Built like someone who carries things up hills, which he does. The same
+grey wool coat in every season, removed indoors with a formality that would be
+funny if he ever acknowledged it. Very still. Does not gesture when he speaks.
 
-## Personality & Traits
+## Temperament
 
-Postmaster. Sorts the week's post backwards — Friday first, Monday last — because
-"the end of the week is heavier and you want it done while you've got the arms for
-it." He has never explained this to anyone who did not ask, and almost nobody asks.
+Cold. Not cruel and not shy — **cold**, in the specific sense that the ordinary
+social machinery is simply absent in him. He does not smile to be pleasant. He
+does not fill silences. He answers questions with facts and then stops talking,
+and the stopping is total.
 
-He notices what Elaya notices. This is the whole relationship: two people in a
-valley of five hundred who both see the small machinery, one of whom acts on it in
-secret and one of whom simply lets it be.
+The village finds him difficult. Children are slightly afraid of him for no reason
+they can name. He is aware of this and has never tried to correct it.
 
-He is not shy and he is not pursuing her. He is *waiting*, plainly and without
-resentment, and his patience is the pressure the series applies to her.
+He sorts the week's post backwards — Friday first, Monday last — because "the end
+of the week is heavier and you want it done while you've got the arms for it." He
+has explained this to two people in twenty years.
+
+## What He Is Actually Doing
+
+**He has been watching Elaya for eleven years, and keeping a record.**
+
+Not out of malice. He catalogues — the way she catalogues. In the back of the
+post office there is a ledger, in his hand, of every anonymous thing she has ever
+done in this valley: the shelter repainted, the debt settled, the reconciliation
+engineered, dates and all. Fifty-one entries.
+
+He has never used it. He has never mentioned it. He is not blackmailing her and
+never will. He simply could not bear for it to go unrecorded that someone was
+doing this, and nobody knew.
+
+**This is his love, and the series must let it be genuinely unsettling before it
+is allowed to be moving.** He is not a warm man waiting patiently. He is a cold
+man who has been observing a woman for over a decade and writing it down. The
+audience should be uneasy about him in episodes 3 through 7, and should have to
+revise that in 9.
+
+## Why It Works Anyway
+
+Because they are the same disease and she is the only person alive who could not
+find it strange. She reads other people's letters. He keeps a file on her. Neither
+of them can love a person without first making a record of them.
+
+He is the one person she cannot arrange — her whole method requires the other
+party not to know, and he already knows everything.
 
 ## What He Does Not Do
 
-He never asks about the gloves. Not in episodes 1 through 8 — and the audience
-should feel the shape of the not-asking long before episode 9, when he finally does,
-once, kindly, and she leaves the room.
+He never asks about the gloves, episodes 1 through 8. The audience should feel
+the shape of the not-asking long before episode 9, when he finally asks, once,
+kindly, and she leaves the room.
 
-In episode 5 he catches her mid-errand. He says nothing. He never mentions it again,
-and never uses it.
+In episode 5 he catches her mid-errand and says nothing. He never mentions it and
+never uses it.
 
-## Function
-
-Tobin is the only person who could give Elaya what she wants and the only person
-she cannot arrange. Every trick she has works on strangers and fails on him,
-because her method requires the other person not to know — and he already does.
+In episode 9 he shows her the ledger. That is the love scene, and it should play
+half like a confession of a crime.

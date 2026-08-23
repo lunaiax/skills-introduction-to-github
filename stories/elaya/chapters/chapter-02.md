@@ -7,11 +7,14 @@ locations:
   - the-meadow-gate
 characters:
   - elaya
+  - peter-lind
+  - frau-oberst
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 55
 ---
+
 
 
 
@@ -33,6 +36,10 @@ First full errand, comic and small. Establishes that she acts at night and never
 3. Elaya observes, decides, and acts sideways.
 4. The errand lands on someone who does not know its source.
 5. Button — one shot through the meadow gate.
+
+## Unease
+
+A child sees her painting at 3am in a ball gown and nobody believes him.
 
 ## Series Thread
 
