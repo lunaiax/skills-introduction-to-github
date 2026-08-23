@@ -4,10 +4,16 @@ role: protagonist
 status: alive
 aliases:
   - The girl at the gate
-relationships: []
+relationships:
+  - character: tobin
+    type: slow
 locations:
   - villa-mareau
   - the-meadow-gate
+  - room-eleven
+  - aunt-mareaus-room
+  - the-post-office
+  - the-bus-shelter
 tags:
   - gloved
   - observer

@@ -7,6 +7,7 @@ relationships:
   - character: elaya
     type: slow
 locations:
+  - the-post-office
   - villa-mareau
 tags:
   - postmaster

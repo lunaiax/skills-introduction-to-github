@@ -6,6 +6,7 @@ population: "six in season, two out of it"
 controlled-by: elaya
 notable-characters:
   - elaya
+  - tobin
 tags:
   - inherited
   - faded-grand
