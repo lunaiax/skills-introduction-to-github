@@ -1,6 +1,6 @@
 # Episode 1 — Shot List
 
-Eleven shots in story order. Images map to sections of
+Thirteen shots in story order. Images map to sections of
 [`../chapters/chapter-01.md`](../chapters/chapter-01.md).
 
 Model: `cinematic_studio_2_5`, 2752×1536, 16:9, 2K, 2 credits each. Elaya carried
@@ -10,19 +10,21 @@ by reference element `69639e42-554b-41a5-a8a2-37589d96b5d4` in every shot.
 
 | # | Shot | Colour (§3A) | Beat | Job | Seed | Elaya |
 |---|---|---|---|---|---|---|
-| 1 | Meadow gate, Elaya between the gates | exterior | Establish — the palace, and the gate that gates nothing | `45265096` | 568590 | yes |
-| 2 | Kitchen, polishing the bell board | sage + cream | Cold open — Thursday ritual, gloves unremarked | `490551b6` | 919790 | yes |
+| 1 | Meadow gate, Elaya between the gates | exterior | Establish — the gate that gates nothing | `45265096` | 568590 | yes |
+| 2 | Kitchen, polishing the bell board | sage + cream | Cold open — Thursday ritual | `490551b6` | 919790 | yes |
 | 3 | Hall, small at the foot of the stairs | shell pink + gold | Havel arrives; *"There isn't, really"* | `eb64502b` | 722131 | yes |
 | 4 | Dining room doorway, watching | raspberry + gold | Forty laid, three chairs drawn in | `2942428a` | 778382 | yes |
 | 5 | Linen room with the Register | *no scheme* | 1961. Room 11. Havel, K., and wife | `bdde6359` | 243624 | yes |
-| 6 | **The blank tab drops** | sage + cream, night | **The title beat** — the one bell that rings | `173bdb36` | 411584 | — |
-| 7 | Light under the door of eleven | powder blue + gold, night | The discovery | `26d305a6` | 916665 | — |
-| 8 | **The 3am doorway** | butter yellow + rose | **The unease beat** | `daaa1b45` | 183564 | yes |
-| 9 | Night corridor, carrying his bag | powder blue + gold | The errand performed | `4943a76b` | 448564 | yes |
-| 10 | Havel leaves through the gate | exterior | Button — he could walk around it in three steps | `7b275fb0` | 177244 | — |
-| 11 | **The shut door** | powder blue + shell pink | Last image — she does not open it today either | `f48ce539` | 589302 | — |
+| 6 | **The blank tab drops** | sage + cream, night | **The title beat** | `173bdb36` | 411584 | — |
+| 7 | The night walk — a bell rope pulled | sage + cream, night | Testing the twenty-two, one room at a time | `3af4748f` | 166353 | yes |
+| 8 | Light under the door of eleven | powder blue + gold, night | The discovery | `26d305a6` | 916665 | — |
+| 9 | **The 3am doorway** | butter yellow + rose | **The unease beat** | `daaa1b45` | 183564 | yes |
+| 10 | Night corridor, carrying his bag | powder blue + gold | The errand performed | `4943a76b` | 448564 | yes |
+| 11 | Breakfast — three people, forty tables | raspberry + gold, morning | Nobody mentions it | `0014e9c5` | 552131 | yes |
+| 12 | Havel leaves through the gate | exterior | Button — three steps around, and he doesn't | `7b275fb0` | 177244 | — |
+| 13 | **The shut door** | powder blue + shell pink | Last image — she does not open it today either | `f48ce539` | 589302 | — |
 
-Eleven shots. Seven carry Elaya and all seven carry the element per §1A. Four are
+Thirteen shots. Nine carry Elaya and all nine carry the element per §1A. Four are
 objects and thresholds with no character in them.
 
 **Shot 1 carries the only wide exterior.** No separate establishing shot of the
@@ -46,7 +48,17 @@ Two errors in the blocks, not in the model:
 
 ## The shape of the run
 
-Wide, close, wide, wide, tight, **insert**, wide, **square**, wide, wide, wide.
+Wide, close, wide, wide, tight, insert, close, insert, **square**, wide, wide, wide, wide.
+
+The episode opens on a threshold and closes on one: the gate that stops nothing,
+and the door that stops her.
+
+## New faces in shot 11
+
+Havel and Doro appear for the first time with faces, and **neither has an
+element**. If either is wanted consistent later — Havel returns in episode 10,
+Doro is in every episode — make an element from this render before shooting them
+again. Otherwise they will be different people each time.
 
 The two inserts — the dropping tab and the strip of light under the door — are the
 only tight frames besides the linen room, and they sit either side of the midpoint.
