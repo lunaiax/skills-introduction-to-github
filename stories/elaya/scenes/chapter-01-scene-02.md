@@ -31,8 +31,8 @@ aunt rewired the one working bell to room eleven and never said why.
 ## Continuity Notes
 
 - Havel asks for room eleven by number; is given four. He has stayed here before.
-- Elaya walks all twenty-two rooms; room nine's bell rope comes away in her hand
-  and is not mended.
+- Elaya walks the twenty-two belled rooms in order. The other eighty-four are
+  locked and she does not enter them.
 - At 3am she lets herself into room four with the master key and moves his bag,
   coat, watch and book to eleven, setting them as he would have. Leaves no note.
   She has never left a note.

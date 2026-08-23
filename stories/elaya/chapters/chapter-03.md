@@ -11,8 +11,9 @@ characters:
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
-word-count: 55
+word-count: 68
 ---
+
 
 
 

@@ -22,6 +22,8 @@ locations:
   - the-elevator
   - the-pool-terrace
   - the-linen-room
+  - the-forecourt
+  - the-winter-garden
 tags:
   - gloved
   - observer
@@ -58,7 +60,7 @@ life, and almost none of it involves other people.
 - **She presses flowers** from the meadow, dates them, and files them against the
   Register by the week the guest stayed. She can tell you what was in bloom when
   anyone checked in.
-- **She keeps the inventory.** Every object in twenty-two rooms, listed, with
+- **She keeps the inventory.** Every object in the twenty-two belled rooms, listed, with
   condition notes. She updates it obsessively. It is the closest thing she has to
   a religion.
 - **She talks to the building.** Not to herself — to the building. Instructions,

@@ -19,7 +19,7 @@ status: standing
 Second floor, no window, one bulb. Deep shelves of hotel linen in cream and gold,
 stacked to the ceiling and perfectly squared. It smells of starch and cedar.
 
-This is the only room in twenty-two that is hers.
+This is the only room in a hundred and six that is hers.
 
 ## The Drawer
 

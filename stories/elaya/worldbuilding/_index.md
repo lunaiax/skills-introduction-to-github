@@ -18,10 +18,12 @@ story: the-small-errands-of-elaya
 | The Bus Shelter | Landmark | the valley | [the-bus-shelter](locations/the-bus-shelter.md) |
 | The Candy Bar | Building | the valley | [the-candy-bar](locations/the-candy-bar.md) |
 | The Elevator | Landmark | the valley | [the-elevator](locations/the-elevator.md) |
+| The Forecourt | Landmark | the valley | [the-forecourt](locations/the-forecourt.md) |
 | The Linen Room | Building | the valley | [the-linen-room](locations/the-linen-room.md) |
 | The Meadow Gate | Landmark | the valley | [the-meadow-gate](locations/the-meadow-gate.md) |
 | The Pool Terrace | Landmark | the valley | [the-pool-terrace](locations/the-pool-terrace.md) |
 | The Post Office | Building | the valley | [the-post-office](locations/the-post-office.md) |
+| The Winter Garden | Building | the valley | [the-winter-garden](locations/the-winter-garden.md) |
 | Villa Mareau | Building | the valley | [villa-mareau](locations/villa-mareau.md) |
 
 ## Systems

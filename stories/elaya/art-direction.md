@@ -142,25 +142,42 @@ Use verbatim, then append the STYLE BLOCK.
 ### 5.1 Villa Mareau — exterior
 
 ```text
-A grand 1890s alpine spa hotel, seven storeys, symmetrical front elevation in
-shell pink and butter cream stucco with white pilasters, arched windows, two
-domed corner turrets in dark slate, and a central entrance under a glazed iron
-canopy. Hand-lettered gold script signage above the doors. Formal parterre
-gardens with clipped topiary in front, a wildflower meadow beyond, and grey
-mountains and pine slopes behind under a pale clear sky. The hotel is immaculate,
-freshly painted, and completely without guests.
+A grand Jugendstil spa palace hotel in an alpine valley, seven storeys,
+photographed straight on. The entire building is shell pink — pink render, pink
+dressed stone, pink balustrades, pink terrace — with no white and no contrasting
+trim anywhere. Art Nouveau detailing: curved bays, sinuous stone mouldings, tall
+arched windows with iron tracery, iron-caged balconies with organic scrollwork, a
+large circular oculus above the central entrance, and two domed corner turrets in
+dark slate with flagpoles. A long glazed winter garden runs down one flank.
+
+In front, a vast pink paved forecourt with a stone fountain at its centre, reached
+by twin curved stairs over an arched undercroft, and beyond it terraced formal
+gardens with clipped topiary and rose beds running down toward a meadow. Grey
+mountains and pine slopes behind under a pale clear sky.
+
+The upper floors are shuttered and dark. Only the lower windows are lit. The
+building is immaculate, freshly rendered, and far too large for anyone to be
+living in it.
 ```
 
-Canon: immaculate, seven storeys, and empty. Grand rather than institutional.
+Canon: **pink on pink on pink — no white trim.** That single note is what separates
+a confection from a civic building, and it was the error in v2. Seven storeys, 106
+rooms, and the shuttered upper floors must be visible in every wide shot.
+
+**Photographic, never illustrated.** The reference for the massing is painted
+background art; the reference for the *rendering* is not. Real light, real
+material, real depth of field.
 
 ### 5.2 The Meadow Gate
 
 ```text
-A pair of tall gilded wrought-iron gates, scrolled and finialled, standing open in
-a meadow of white and pink wildflowers. There is no wall or fence on either side —
-the wall came down decades ago and the gates stand alone in open grass. A worn
-footpath runs through the opening; the grass to either side is undisturbed. Grey
-mountains and pale clear sky behind.
+A pair of tall gilded Art Nouveau iron gates, sinuous and scrolled with organic
+tracery, standing open at the foot of the hotel's terraced gardens where the
+formal planting gives way to open alpine meadow. There is no wall or fence on
+either side — the wall came down decades ago and the gates stand alone in the
+grass. A worn footpath runs through the opening; the grass to either side is
+undisturbed. The pink palace hotel rises behind on its terraces, mountains beyond,
+pale clear sky.
 ```
 
 Canon: the iron is now **gilded**, not rusted. The undisturbed grass either side
@@ -297,6 +314,32 @@ Canon changed: the mismatch is now **pink against pink**, not yellow against
 yellow, and must be *almost* right. The joke dies if it is obviously different.
 
 ---
+
+### 5.13 The Forecourt
+
+```text
+A vast pink paved forecourt in front of a Jugendstil spa palace hotel, with a
+carved stone fountain at its centre, a low pink balustrade around the edge, and
+twin curved stairs descending over an arched undercroft to the gardens below.
+Clipped topiary in stone urns. The pink hotel facade rises behind, mountains
+beyond, pale clear sky. Completely empty — no cars, no guests, no luggage.
+```
+
+Canon: built to receive forty arrivals at once and receives none. The emptiness of
+this space is the single most efficient statement the series has, and it should
+open at least three episodes.
+
+### 5.14 The Winter Garden
+
+```text
+A long glazed Art Nouveau conservatory running down the flank of a pink palace
+hotel: curved iron ribs and glass, tall palms and ferns in glazed pots, cane
+furniture with rose cushions, a chequered tile floor, and pink blinds half drawn
+against the light. Warm and humid and green. Empty.
+```
+
+Canon: the only warm and green room in the series. Elaya waters it daily. Used in
+episodes 6 and 9.
 
 ## 5A. Motion vocabulary
 

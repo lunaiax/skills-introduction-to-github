@@ -14,8 +14,9 @@ mentions:
 arcs-advanced:
   - what-the-gloves-hide
 status: draft
-word-count: 1847
+word-count: 1913
 ---
+
 
 
 # Episode 1: The One Bell That Rings
@@ -71,7 +72,8 @@ hall with a painted sky on the ceiling and swallows in it. A staircase in pink a
 gold that two people use. A lift that works, with buttons from G to 8, that Elaya
 has taken four times in her life, because the lift is for guests.
 
-Every room is made up. Every surface is polished. There are fresh flowers in the
+Every one of the twenty-two rooms that have bells is made up. Every surface in
+them is polished. There are fresh flowers in the
 urn by the desk, changed on Mondays, and in the dining room forty places are laid
 each morning with gold-rimmed china, and each evening Doro clears thirty-seven of
 them, unused, and washes them anyway.
@@ -166,8 +168,13 @@ It rings a third time, and stops.
 
 ---
 
-There are twenty-two rooms and she goes through them in order, which takes until
-one in the morning.
+There are one hundred and six rooms in this hotel and twenty-two of them have
+bells. She goes through the twenty-two in order, which takes until one in the
+morning.
+
+The other eighty-four are locked. She has the keys. She does not go in them, and
+has not since she was nine, and could not tell you why in a sentence that would
+satisfy anybody.
 
 She does not take the lift. She carries no light, because she knows the building
 the way you know your own teeth, and she pulls the bell rope in each room and
@@ -269,8 +276,8 @@ He reaches the gate. He could pass around it in three steps.
 
 He walks through it.
 
-And Elaya goes back into a hotel with twenty-two rooms, all of them perfect, and
-passes the door at the end of the second-floor corridor — shell pink, gilded, no
+And Elaya goes back into a hotel with a hundred and six rooms, twenty-two of them
+perfect and the rest dark, and passes the door at the end of the second-floor corridor — shell pink, gilded, no
 number, the one bell in the building that does not work — and she does not open it
 today either.
 
