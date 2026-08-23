@@ -1,6 +1,6 @@
 # Storyboard — Chapter 1, Scene 1
 
-Frame derived from [`scenes/chapter-01-scene-01.md`](../scenes/chapter-01-scene-01.md)
+Four-panel board derived from [`scenes/chapter-01-scene-01.md`](../scenes/chapter-01-scene-01.md)
 using the `visual-skills` image methodology.
 
 ## Source beats
@@ -23,6 +23,29 @@ visual prompt converge:
 - Positive framing throughout; nothing phrased as an absence
 - The dramaturgy doc's banned words avoided — no "cinematic", "epic", "masterpiece",
   and no emotion named without a body to carry it
+
+## The board
+
+Four panels, cut against the scene's four beats. Panel 2 was rendered first and
+approved; panels 1, 3 and 4 were then generated with panel 2 passed as an
+`image_references` input, so identity, clothing and palette carry across the cut
+rather than being re-rolled each time.
+
+| # | Shot | Beat | Job |
+|---|---|---|---|
+| 1 | Wide establishing, high angle from the ladder hatch | Space geometry: sloping floor, flooded corner, shut door, one lantern | `e6fd0761` |
+| 2 | Medium, slightly above and to one side | Wren works the ledger, thumb pinning the page | `df60b4b9` |
+| 3 | Tight insert, overhead on the page | The date resolves; the signature does not | `0329f8c1` |
+| 4 | Close reaction, below eye level, lantern between camera and face | The entry registers | `134bda69` |
+
+The cut runs wide to medium to insert to close — each panel tighter than the last,
+so the frame closes down as the water rises. The sound anchor (the bell buoy) has
+no still-frame equivalent and stays held for a video pass.
+
+Panel 3 quotes a date, `"14th November"`, to exercise Nano Banana's text
+rendering. That date is **not canon**: nothing in the story files fixes the
+harbour calendar yet. Set it in `chapters/chapter-01.md` before treating it as
+established, or re-render the panel once the real date exists.
 
 ## Prompt
 
@@ -53,6 +76,25 @@ amber, cold sea-green and near-black. Format: 16:9.
 - Job: `df60b4b9-1be7-4994-b781-e128c738ace9`
 - Output: 2752×1536, 16:9, 2K · 2 credits
 
-The rendered PNG is not committed here: this container's network policy denies the
+The rendered PNGs are not committed here: this container's network policy denies the
 CDN host serving it, so it could not be fetched. Save it from the generation widget
 and drop it in this folder as `chapter-01-scene-01.png` if you want it versioned.
+
+## Panel prompts
+
+Each panel below was submitted with panel 2's job id as an `image_references`
+input, plus an explicit instruction to match identity, clothing and lighting to
+it. Full prompt text is preserved in the generation records on Higgsfield.
+
+- **Panel 1 — wide establishing.** `e6fd0761-cf95-4350-9221-301902d1400a`
+  High angle down through the hatch; the lantern is the single bright point in a
+  large dark room, reaching only the table and a ring of wet floor.
+- **Panel 3 — tight insert.** `0329f8c1-bb2c-4c98-9be5-863667475261`
+  Overhead on the open ledger; ruled columns in iron-gall ink, damp climbing the
+  lower entries, the final entry alone below a gap with its signature dissolved.
+- **Panel 4 — close reaction.** `134bda69-2d7b-4202-9110-8a241553ac7c`
+  Below eye level with the flame between camera and her face; amber under-light
+  against a low band of blue-green where risen water catches the doorframe.
+
+All four: 2752×1536, 16:9, 2K, Nano Banana (requested `nano_banana_pro`, served
+by `nano_banana_2`). 2 credits each, 8 total.
