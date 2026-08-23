@@ -1,6 +1,6 @@
 # Episode 1 — Shot List
 
-Seven shots in story order. Images map to sections of
+Eleven shots in story order. Images map to sections of
 [`../chapters/chapter-01.md`](../chapters/chapter-01.md).
 
 Model: `cinematic_studio_2_5`, 2752×1536, 16:9, 2K, 2 credits each. Elaya carried
@@ -8,18 +8,28 @@ by reference element `69639e42-554b-41a5-a8a2-37589d96b5d4` in every shot.
 
 ## The sequence
 
-| # | Shot | Colour (§3A) | Beat | Job | Seed |
-|---|---|---|---|---|---|
-| 1 | Meadow gate, hotel behind | exterior | Establish — the palace, and the gate that gates nothing | `45265096` | 568590 |
-| 2 | Kitchen, polishing the bell board | sage + cream | Cold open — Thursday ritual, gloves unremarked | `490551b6` | 919790 |
-| 3 | Hall, small at the foot of the stairs | shell pink + gold | Havel arrives; *"There isn't, really"* | `eb64502b` | 722131 |
-| 4 | Dining room doorway, watching | raspberry + gold | Forty laid, three chairs drawn in | `2942428a` | 778382 |
-| 5 | Linen room with the Register | *no scheme* | 1961. Room 11. Havel, K., and wife | `bdde6359` | 243624 |
-| 6 | **The 3am doorway** | butter yellow + rose | **The unease beat** | `daaa1b45` | 183564 |
-| 7 | Night corridor, carrying his bag | powder blue + gold | The errand performed | `4943a76b` | 448564 |
+| # | Shot | Colour (§3A) | Beat | Job | Seed | Elaya |
+|---|---|---|---|---|---|---|
+| 1 | Meadow gate, Elaya between the gates | exterior | Establish — the palace, and the gate that gates nothing | `45265096` | 568590 | yes |
+| 2 | Kitchen, polishing the bell board | sage + cream | Cold open — Thursday ritual, gloves unremarked | `490551b6` | 919790 | yes |
+| 3 | Hall, small at the foot of the stairs | shell pink + gold | Havel arrives; *"There isn't, really"* | `eb64502b` | 722131 | yes |
+| 4 | Dining room doorway, watching | raspberry + gold | Forty laid, three chairs drawn in | `2942428a` | 778382 | yes |
+| 5 | Linen room with the Register | *no scheme* | 1961. Room 11. Havel, K., and wife | `bdde6359` | 243624 | yes |
+| 6 | **The blank tab drops** | sage + cream, night | **The title beat** — the one bell that rings | `173bdb36` | 411584 | — |
+| 7 | Light under the door of eleven | powder blue + gold, night | The discovery | `26d305a6` | 916665 | — |
+| 8 | **The 3am doorway** | butter yellow + rose | **The unease beat** | `daaa1b45` | 183564 | yes |
+| 9 | Night corridor, carrying his bag | powder blue + gold | The errand performed | `4943a76b` | 448564 | yes |
+| 10 | Havel leaves through the gate | exterior | Button — he could walk around it in three steps | `7b275fb0` | 177244 | — |
+| 11 | **The shut door** | powder blue + shell pink | Last image — she does not open it today either | `f48ce539` | 589302 | — |
 
-**Shot 1 carries the only exterior in the episode.** The hotel is visible behind
-the gate; no separate establishing shot of the facade or forecourt is used.
+Eleven shots. Seven carry Elaya and all seven carry the element per §1A. Four are
+objects and thresholds with no character in them.
+
+**Shot 1 carries the only wide exterior.** No separate establishing shot of the
+facade or forecourt.
+
+**Shot 11 is the series' held object** and recurs in episodes 5, 8 and 10. It is
+the one plate worth getting exactly right, because everything later leans on it.
 
 ## Why the interiors were re-shot
 
@@ -36,7 +46,12 @@ Two errors in the blocks, not in the model:
 
 ## The shape of the run
 
-Wide, close, wide, wide, tight, **square**, wide.
+Wide, close, wide, wide, tight, **insert**, wide, **square**, wide, wide, wide.
+
+The two inserts — the dropping tab and the strip of light under the door — are the
+only tight frames besides the linen room, and they sit either side of the midpoint.
+The episode opens on a threshold and closes on one: the gate that stops nothing,
+and the door that stops her.
 
 Each interior owns a different colour, so the run reads as walking through a box
 of different sweets: green kitchen, pink hall, raspberry dining room, yellow
