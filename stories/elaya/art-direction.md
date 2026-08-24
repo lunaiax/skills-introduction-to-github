@@ -430,25 +430,81 @@ against the light. Warm and humid and green. Empty.
 Canon: the only warm and green room in the series. Elaya waters it daily. Used in
 episodes 6 and 9.
 
-## 5A. Motion vocabulary
+## 5A. Motion vocabulary — v2, kinetic
 
-Unchanged from v1. For the video pass — a still cannot contain a camera move; it
-carries the *lens* and the *framing the move lands on*. Never prompt "whip pan"
-into a still image.
+**This replaces the locked-off default.** Episode 1 was animated almost entirely
+static and it is too slow. Stillness is a tool for one or two shots an episode,
+not the house style. The reference is Jeunet: the camera is restless, the cuts are
+fast, and the energy comes from movement against rigid symmetry.
 
-- **Whip pan between centred compositions.** Object to face, face to object.
-  Always lands square on.
-- **Fast push-in on a held wide.** The empty room, then hard in to Elaya. At
-  least once an episode.
-- **Snap-back.** Push in, cut back out to the same wide, nothing changed. Reserve
-  for episodes 6 and 7.
-- **Insert whip.** The narrator names an object; the camera snaps to it and holds
-  one beat too long.
+### The rule
 
-No handheld, no drift, no slow motion. Every move fast, motivated, locked off at
-both ends. Episode 10 gives up the whip pan and plays in static wides.
+**Every shot moves unless there is a reason it doesn't.** The default is motion.
+A locked-off frame must be *earned* — it should feel like the film holding its
+breath, which only works if it is otherwise breathing.
 
----
+At most **two static shots per episode.** In episode 1 those are the doorway and
+the shut door. Everything else should move.
+
+### The moves
+
+**Fast push-in.** Start wide, snap in hard to a face or an object over 1-2
+seconds, then lock. The workhorse. Use on any reveal.
+
+**Snap zoom.** Faster and cruder than a push — a jolt, 3-4 frames of acceleration.
+Comic. Use when the narrator names something absurd.
+
+**Whip pan between centred compositions.** Object to face, face to object. Blurs
+through the middle, lands square on. Never lands off-centre.
+
+**Fast dolly along a line.** Down a corridor, along a laid table, past a row of
+doors. The symmetry does the work while the camera runs.
+
+**Rise and fall.** Crane up off a subject to reveal how much empty room is around
+them, or drop down onto a surface. Best statement of the hotel's scale.
+
+**Speed ramp.** Normal speed, slam to slow motion on the beat, back up. Jeunet
+uses this constantly. `cinematic_studio_video_v2` supports it natively via
+`speedramp` — see the model note below.
+
+**Match cut.** End one shot on a shape and begin the next on the same shape in a
+different place. A round tray becomes the pool. A gloved hand becomes another
+gloved hand. This is where the wit lives.
+
+**Object insert with motion.** Not a still of the object — the object *doing
+something*. The tab dropping, the coffee pouring, the page turning, all shot tight
+and fast.
+
+### What the camera still does not do
+
+Handheld. Drift without purpose. Slow motion as decoration rather than accent.
+Anything that breaks the dead-centre vanishing point on a landing frame — the
+camera may move violently, but it always arrives square.
+
+### Cut rhythm
+
+Episode 1's uniform five-second clips are part of the problem. Vary them:
+
+| Length | Use |
+|---|---|
+| 1-2s | inserts, whips, snap zooms — several in a row |
+| 3-4s | most shots |
+| 5-8s | the two static shots, and the close |
+
+A run of three short inserts before one long held frame is the basic Amelie
+sentence. We used none of it.
+
+### Model note
+
+`kling3_0` handles a start frame well but has no speed control.
+**`cinematic_studio_video_v2` has `speedramp` (`slowmo`, `speedup`, `impact`) and
+`multi_shots`**, which is a better fit for this vocabulary, accepts the Elaya
+element, and should be tested against Kling on the next batch.
+
+### Episode 10 exception
+
+Unchanged. The finale gives up the kinetic grammar entirely and plays in long
+static wides. That only reads as a choice if the preceding nine episodes move.
 
 ## 6. Continuity checklist
 
