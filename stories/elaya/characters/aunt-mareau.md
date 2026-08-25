@@ -17,6 +17,38 @@ arc: ""
 
 # Aunt Mareau
 
+## Appearance — the photograph only
+
+She is never seen alive and there are no flashbacks. She exists visually as **one
+small framed photograph**, propped against a gilt chair in the funeral shot, and
+that photograph is the only design she needs.
+
+Late sixties in it, taken perhaps fifteen years before she died. Broad strong face,
+deep laugh lines, white hair cut short and practical — not a storybook aunt's bun.
+Pale eyes. She is grinning, and one eyetooth is crooked.
+
+**She is the only person in the series photographed not posing.** Everyone else is
+composed. She was caught mid-laugh and kept the print anyway.
+
+## Wardrobe
+
+A man's brown cardigan, sleeves pushed to the elbow, over a plain blue cotton
+work dress. Muddy at the hem. She had been in the garden.
+
+**And dusty pink opera gloves to the elbow.**
+
+Worn with a gardening cardigan, absurdly, in a photograph of a woman who has been
+digging. Nobody in the frame is reacting to them.
+
+## The gloves
+
+This is the clue and it must be visible in the photograph without ever being
+mentioned. Elaya's gloves are not a habit she invented. They are her aunt's, and
+her aunt wore them in the dirt.
+
+Why is answered in episode 10, with the bell and the blank tab, because they are
+all the same answer.
+
 ## Presence
 
 A year dead when the series opens, and the most active character in it.
