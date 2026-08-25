@@ -15,8 +15,9 @@ mentions:
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
-word-count: 445
+word-count: 568
 ---
+
 
 
 # Episode 6: The Guest Who Cries in the Morning
@@ -28,9 +29,14 @@ builds the errand in three — and then does not perform it.
 
 ## The Guest
 
-**Nadja Reuss**, 34. Excellent understated clothes, all wrong for a mountain. A
-camel coat too light for the evenings. Narrow town shoes. She packed for a
-holiday and came to make a decision.
+**Nadja Reuss**, 34, and **married eleven months.** Excellent understated clothes,
+all wrong for a mountain. A camel coat too light for the evenings. Narrow town
+shoes. She packed for a holiday and came to make a decision.
+
+Eleven months is the number that makes the episode hurt. By every outward measure
+she is still a new wife. The paper tags from the wedding trip are still on her
+case. There is confetti in the lining, and she finds a piece of it on the second
+day and puts it in the ashtray and looks at it for a while.
 
 ## The Case
 
@@ -42,9 +48,11 @@ method is not the problem.
    into it and then deciding again, daily.
 2. She books seven nights and asks twice about the bus timetable.
 3. Two books at her bedside, both unread, one bought at a station.
-4. She writes three letters and posts none. Tobin confirms it without being asked
+4. She signs the register *Reuss* and hesitates first — eleven months is not long
+   enough for the hand to have learned it.
+5. She writes three letters and posts none. Tobin confirms it without being asked
    and Elaya notices, for the first time, that he has started offering.
-5. **The ring.** She takes it off to swim, sets it on the tiles, swims alone in a
+6. **The ring.** She takes it off to swim, sets it on the tiles, swims alone in a
    pool nobody uses, and puts it back on afterwards. Every day. In that order.
 
 ## The Errand That Does Not Happen
@@ -66,7 +74,9 @@ On the seventh morning Nadja comes down composed at breakfast for the first time
 settles her bill, thanks Doro, and goes.
 
 She has decided. She decided on the fourth night, before the errand would have
-started.
+started. She is going back to him, or she is not, and **the series never says
+which** — Elaya does not find out, which is the first time in ten episodes she is
+left outside a fact.
 
 **Elaya's interventions were never the mechanism.** People were always going to
 do what they were going to do. Nine years of work, and it is possible that all of

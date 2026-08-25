@@ -12,6 +12,7 @@ locations:
 tags:
   - guest
   - episode-4
+  - newlyweds
   - case
   - antagonistic
 arc: ""
@@ -31,6 +32,15 @@ tell Elaya reads in about four minutes and spends the whole episode confirming.
 Expensive and slightly loud: a check sports jacket, a cravat, correspondent
 shoes. A camel coat with the collar up. He dresses like a man on holiday
 performing a man on holiday.
+
+## The honeymoon
+
+**Married six weeks.** This is the wedding trip, booked and paid for before the
+audit was scheduled, and he has not cancelled it because a man who cancels his
+own honeymoon is a man with something happening.
+
+He introduces her as "the new Frau Melle" to everyone including Doro, four times
+in two days.
 
 ## The case
 

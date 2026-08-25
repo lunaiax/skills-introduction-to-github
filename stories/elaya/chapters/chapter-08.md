@@ -10,6 +10,8 @@ locations:
 characters:
   - elaya
   - anselm-ruck
+  - otto-sanne
+  - renate-sanne
   - frau-oberst
   - doro
 mentions:
@@ -18,8 +20,9 @@ mentions:
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
-word-count: 515
+word-count: 887
 ---
+
 
 
 # Episode 8: Forty Things That Belong to Other People
@@ -29,9 +32,15 @@ word-count: 515
 A tax assessor gives nine days' notice that he will list and value every object in
 every room. Elaya has nine days to give back a drawer full of things she stole.
 
-## The Guest
+## The Guests
 
-**Anselm Ruck**, 54. Grey suit with no opinion in it. Rimless spectacles. Holds
+**Otto and Renate Sanne**, 26 and 24, **married nine days.** Room fourteen — the
+only room on that floor with its own bathroom, which is why they got it. They do
+not come out. Not unwholesomely: they come down for meals beaming and holding
+hands under the tablecloth, and between meals the door is shut and there is a
+chair against it and the world can wait nine days.
+
+And **Anselm Ruck**, 54. Grey suit with no opinion in it. Rimless spectacles. Holds
 his hat indoors. Entirely courteous, thanks her for each room, never raises his
 voice — and requires access to all one hundred and six.
 
@@ -50,12 +59,51 @@ The episode is nine days of solving her own crimes from her own filing:
   of two Weisses, on which visit, and whether he was the one who came back.
 - A child's rubber elephant. *Ostrow, 1958.* The child is nineteen now.
 - A tram ticket. *Ferro, 1963.* Five episodes ago. Still warm.
+- A silver propelling pencil. **_Sanne, 1949._**
 
 She returns twenty-nine of them by post, unsigned, over nine nights. **Tobin
 handles every single parcel and asks nothing**, and the audience watches him
 recognise the handwriting on all twenty-nine and stamp them anyway.
 
 Six she cannot place. Four she cannot bring herself to send.
+
+## The Honeymoon Problem
+
+Two things are behind the door of room fourteen: a couple nine days married, and
+the only corridor Ruck has not been down.
+
+And the pencil labelled *Sanne, 1949* belonged to Otto's father, who stayed here
+once, and died two years ago, and whose son does not know that this building was
+the last place he slept.
+
+So Elaya must keep a tax assessor out of the second floor for two more days —
+which she does with a lie about a burst pipe, cheerfully, in front of Doro, who
+puts down a pan — and get into a honeymoon suite unseen to put a dead man's pencil
+on a washstand.
+
+**It is the funniest sequence in the series and the shabbiest thing she does in
+it, simultaneously.**
+
+## Caught
+
+On the sixth night Renate Sanne comes down for a glass of water at two in the
+morning and finds the linen room door open, the drawer out, and forty labelled
+objects laid along the shelf.
+
+She looks for about four seconds. She says *"Good night."* She goes back upstairs.
+
+She never mentions it. Not to Otto, not to Ruck, not to Elaya. In the morning she
+says good morning exactly as before, and passes the salt.
+
+**Being forgiven by a stranger who owed her nothing is worse than being caught**,
+and Elaya has no procedure for it whatsoever.
+
+She leaves the pencil on the washstand the next night anyway. Renate finds it
+first, knows precisely where it came from, hands it to her husband, and says
+nothing at all.
+
+Otto cries at breakfast in front of eleven empty tables and cannot explain why,
+and his wife can, and does not.
 
 ## The Brooch
 
@@ -98,7 +146,8 @@ She does not send it. She puts it back. She closes the drawer.
 
 ## Unease
 
-The drawer, open on camera, counted, for a long time.
+The drawer, open on camera, counted, for a long time — and a young woman in a
+nightdress standing in the doorway behind her, saying good night.
 
 ## Series Thread
 

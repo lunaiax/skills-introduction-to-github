@@ -6,6 +6,7 @@ population: ""
 controlled-by: elaya
 notable-characters:
   - elaya
+  - renate-sanne
 tags:
   - private
   - secondary

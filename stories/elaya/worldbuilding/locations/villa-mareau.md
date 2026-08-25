@@ -12,14 +12,18 @@ notable-characters:
   - clara-mon
   - doro
   - elaya
+  - emil-roth
   - ferro
   - hanno-krebs
   - havel
   - iris-melle
   - julian-aubry
+  - katrin-vogel
   - leo-kant
   - mila-vesth
   - nadja-reuss
+  - otto-sanne
+  - renate-sanne
   - stefan-lange
   - the-brosz-family
   - tobin

@@ -14,12 +14,12 @@ characters:
 mentions:
   - tobin
   - doro
-  - the-kessler-brothers
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
 word-count: 407
 ---
+
 
 
 # Episode 2: The Suitcase That Was Never Opened

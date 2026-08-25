@@ -43,4 +43,4 @@ story: the-small-errands-of-elaya
 | Name | Type | Status | File |
 |------|------|--------|------|
 | The Bell Board | Object | active | [the-bell-board](artifacts/the-bell-board.md) |
-| The Register | Artifact | intact | [the-register](artifacts/the-register.md) |
+| The Register | Object | active | [the-register](artifacts/the-register.md) |

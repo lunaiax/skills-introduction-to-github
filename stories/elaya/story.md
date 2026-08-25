@@ -69,8 +69,13 @@ available before it is stated.
 **B-plot — the season.** Tobin, the drawer, the blank tab, the locked room, the
 gloves. The B-plot advances by exactly one object per episode.
 
-**Recurring cast:** Elaya, Tobin, Doro, Frau Oberst, Peter Lind, and the Kessler
-brothers, who are in every episode and are never the plot.
+**Recurring cast:** Elaya, Tobin, Doro, Frau Oberst, Peter Lind.
+
+**The marriage pattern.** Every even-numbered episode is a marriage case — a
+bride, a honeymoon, a wife eleven months in, a wedding — and Elaya interferes in
+every one of them. Odd-numbered episodes are the solitary cases. A woman who has
+never been close to anybody spends half her working life adjusting other people's
+marriages, and the series never once has a character remark on it.
 
 ## Tone
 

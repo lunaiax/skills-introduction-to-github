@@ -11,27 +11,58 @@ characters:
   - elaya
   - tobin
   - havel
+  - katrin-vogel
+  - emil-roth
   - the-brosz-family
 mentions:
   - aunt-mareau
   - doro
   - peter-lind
-  - the-kessler-brothers
 arcs-advanced:
   - what-the-gloves-hide
 status: outline
-word-count: 523
+word-count: 770
 ---
+
 
 
 # Episode 10: Around the Gate
 
 ## Logline
 
-Four ordinary people book a room and want nothing. Elaya has no case to solve for
-the first time in her life — and answers the only question left.
+A village girl walks up the drive and asks Elaya, out loud, for a specific thing
+with a date on it. It takes eleven seconds. Nine episodes of working out what
+people will not ask for, undone by somebody asking.
 
-## The Guests
+## The Wedding
+
+The church roof is off for the summer and there is nowhere in the valley that
+will hold sixty people and keep the rain out.
+
+So **Katrin Vogel**, 22, of the dairy, walks up the drive in October and asks
+whether she can be married in the hall, on the eleventh, and offers to pay what
+she can.
+
+Out loud. To Elaya's face. Naming the thing, with a date.
+
+**This is the inversion the whole series has been building.** Elaya arranges the
+wedding — the hall under the painted sky, the lift running, rooms for the aunts,
+and forty places finally laid for forty people who arrive and eat off them.
+
+And for the first time in her life the work is **commissioned, credited, thanked
+for by name, and paid for.** She hates roughly a third of that and the audience
+should be able to see which third.
+
+**Emil Roth**, 24, the groom, farms above the treeline. He is one of the four
+farms Tobin walks the post to on foot, and the only person in the valley who has
+spoken to Tobin every week for six years. He is the one who mentions, as a fact
+about a building, that the wedding is at the hotel — and watches Tobin receive
+that and has no idea what he has just watched.
+
+Tobin comes to the wedding. Not in the grey coat, not with a mailbag, standing in
+a room full of people, for the first time in six hundred and twenty-four visits.
+
+## The Other Guests
 
 **The Brosz family.** Father, mother, two children. Three cases, a folding pram,
 a football. They booked because the hotel was in a brochure.
@@ -87,9 +118,7 @@ A hand. A threshold. **No swelling music.**
 Whether the glove comes off is a staging decision and either version works, but
 the promise behind it is spoken aloud, and that is the payoff, not the skin.
 
-Last minute: room seventeen gets a bell fitted — twenty-three now. The Kessler
-brothers at opposite ends of the forecourt, still not speaking, and the camera
-finds them and moves on. The youngest Brosz child walks around the gate because
+Last minute: room seventeen gets a bell fitted — twenty-three now. The youngest Brosz child walks around the gate because
 he wants to, and nobody stops him.
 
 ## Unease

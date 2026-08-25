@@ -8,6 +8,7 @@ notable-characters:
   - elaya
   - iris-melle
   - nadja-reuss
+  - otto-sanne
   - stefan-lange
   - the-brosz-family
 tags: []

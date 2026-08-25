@@ -11,6 +11,7 @@ locations:
   - the-post-office
   - villa-mareau
   - the-bus-shelter
+  - the-forecourt
 tags:
   - postmaster
   - counter
@@ -121,12 +122,61 @@ They are the only two people in the valley who cannot love anyone without first
 making a record of them. That is the romance, and it should read as a diagnosis
 before it reads as a happy ending.
 
+## Why he is at the hotel — twice a week, for six years
+
+**Villa Mareau is a sub-post office, and has been since 1911.**
+
+When the hotel filled forty rooms a week, the village office could not handle the
+volume, so the Post granted the villa its own mailbag and its own poste restante,
+with a numbered receiving tray in the hall and a franking stamp kept in the desk
+drawer. Guests' letters were weighed and stamped on the premises.
+
+**Nobody ever cancelled the arrangement.** It cannot be cancelled by either of
+them — it is held at the district office, in a file, by people who have never been
+here. So twice a week, Tuesday and Friday, at twenty past nine, the postmaster of
+this valley walks up a mile of drive to deliver and collect a mailbag for a
+building with two permanent residents.
+
+He has done this a hundred and four times a year for six years. **Six hundred and
+twenty-four visits.** Neither of them has ever once suggested changing it.
+
+## What that visit actually looks like
+
+It is a fixed ritual and the series should shoot it identically every episode
+until it changes:
+
+- He comes up on foot, through the meadow gate, never around it.
+- He does not knock. The hall door is never locked; nothing in this valley is.
+- He puts the incoming bag on the tray. He takes the outgoing bag. He weighs and
+  franks whatever the guests have left, at the desk, standing.
+- **He is offered coffee every time and has accepted twice in six years.** Both
+  times are dated in the ledger.
+- He signs the receiving book. She countersigns. Their two hands, side by side,
+  twice a week, six years — and hers is a forgery of a dead woman's, and he knows
+  it, and has never said.
+- Fourteen to nineteen minutes, door to door.
+
+**This is where the whole romance happens.** Not in scenes about them. In a
+recurring administrative appointment neither of them will end.
+
+## Why it makes him a detective
+
+Every letter a guest sends leaves the building through his hands, in the building,
+in front of her. Every letter a guest receives arrives the same way. He sees the
+addresses, the weights, the registered slips, the poste restante that guests
+collect in the village so it will not be seen at the hotel.
+
+He never volunteers any of it.
+
 ## Function in the cases
 
 From episode 3 onward he is the second half of the method. **Elaya has the
 building; Tobin has the valley.** She knows what a guest brought with them; he
 knows what they posted, what came for them, what was registered, and who signed
 for it.
+
+Which means the hotel's own mailbag is the single richest source of evidence in
+the series, and it walks in twice a week on legs, and says almost nothing.
 
 He never volunteers any of it. He answers exactly the question asked, which means
 she has to know what to ask, which is the only game either of them has ever

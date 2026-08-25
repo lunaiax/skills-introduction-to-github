@@ -9,7 +9,6 @@ notable-characters:
   - elaya
   - frau-oberst
   - hanno-krebs
-  - the-kessler-brothers
   - tobin
   - vera-holt
 tags: []

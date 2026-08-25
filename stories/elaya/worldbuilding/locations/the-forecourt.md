@@ -6,8 +6,11 @@ population: ""
 controlled-by: ""
 notable-characters:
   - elaya
+  - emil-roth
   - julian-aubry
+  - katrin-vogel
   - the-brosz-family
+  - tobin
 tags: []
 status: standing
 ---
