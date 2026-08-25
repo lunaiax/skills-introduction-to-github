@@ -8,7 +8,8 @@ locations:
   - the-post-office
 tags:
   - village
-  - episode-5
+  - running-motif
+  - all-episodes
 arc: ""
 ---
 
@@ -37,11 +38,13 @@ change.
 
 ## The detail
 
-**In episode 5, the shot is their hands.** Two pairs, identical, doing the same
-thing at the same speed at opposite ends of a village, for eleven years.
+**They are in every episode and they are never the plot.**
 
-Elaya reconciles them with a broken clock and a lie of omission that is, examined
-closely, quite cruel. It works.
+Somewhere in each hour they appear at opposite ends of the same shot, doing the
+same thing at the same speed — unloading, sweeping, waiting, crossing themselves
+at the same moment in church — and neither looks up.
+
+In one episode the shot is their hands.
 
 ## Description
 
@@ -51,9 +54,16 @@ die than be the one to say so.
 
 ## Function
 
-Episode 5, and the high-water mark of Elaya's powers: she reconciles them using a
-broken clock and a lie of omission that is, examined closely, quite cruel.
+**The valley's running motif, and the series' only unsolved case.**
 
-It works. It is also the episode where Tobin catches her, and the audience sees
-for the first time what she is actually willing to do to people for their own
-good.
+Elaya could fix this in an afternoon. She has worked out how — a broken clock and
+a lie of omission — and the plan is complete by episode 3 and she never executes
+it, and the series never says why.
+
+The audience should notice around episode 6 that she has quietly solved
+everybody's life except the two easiest people in the valley, and should work out
+on their own that the two of them are standing in for something she is not
+looking at.
+
+They are still not speaking at the end of episode 10. The camera finds them one
+last time in the last minute, at opposite ends of the forecourt, and moves on.

@@ -5,10 +5,13 @@ region: the valley
 population: ""
 controlled-by: ""
 notable-characters:
+  - augustin-melle
   - elaya
   - frau-oberst
+  - hanno-krebs
   - the-kessler-brothers
   - tobin
+  - vera-holt
 tags: []
 status: standing
 ---

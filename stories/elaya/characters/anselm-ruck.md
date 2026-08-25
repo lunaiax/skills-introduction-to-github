@@ -48,11 +48,16 @@ much worse than a villain.
 
 ## Function
 
-In episode 8 he walks the hotel room by room, listing objects aloud and assigning
-each a value, while Elaya follows him with the inventory she has kept since she
-was a child and hears her whole life priced.
+Episode 8's case, run backwards. He walks the hotel room by room listing objects
+aloud and assigning each a value, and he requires access to **every room in the
+building.** He gives nine days' notice, courteously, in writing.
 
-He requires access to every room. Including the one at the end of the corridor.
+Which gives Elaya nine days to empty a drawer containing forty objects that
+belong to other people — and to work out, from her own labels, who those people
+were, where they are now, and how to give forty things back without once being
+seen doing it.
+
+It is the only case in the series where the guilty party is the detective.
 
 He is not the antagonist. He is a man doing a job correctly, which is what forces
-the door — and that is worse than if he had wanted to.
+the door at the end of the corridor — and that is worse than if he had wanted to.

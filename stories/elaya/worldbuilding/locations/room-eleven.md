@@ -7,6 +7,7 @@ controlled-by: ""
 notable-characters:
   - elaya
   - havel
+  - vera-holt
 tags: []
 status: standing
 ---

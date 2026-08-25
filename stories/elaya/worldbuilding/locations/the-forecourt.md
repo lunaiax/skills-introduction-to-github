@@ -6,6 +6,8 @@ population: ""
 controlled-by: ""
 notable-characters:
   - elaya
+  - julian-aubry
+  - the-brosz-family
 tags: []
 status: standing
 ---

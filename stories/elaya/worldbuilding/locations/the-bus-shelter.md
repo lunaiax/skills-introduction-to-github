@@ -5,9 +5,12 @@ region: the valley
 population: ""
 controlled-by: ""
 notable-characters:
+  - adele-pilz
   - elaya
   - frau-oberst
+  - mila-vesth
   - peter-lind
+  - tobin
 tags: []
 status: standing
 ---

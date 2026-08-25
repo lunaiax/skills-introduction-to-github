@@ -5,7 +5,10 @@ region: the valley
 population: ""
 controlled-by: ""
 notable-characters:
+  - clara-mon
   - elaya
+  - ferro
+  - leo-kant
 tags: []
 status: standing
 ---

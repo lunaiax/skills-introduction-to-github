@@ -5,13 +5,25 @@ region: the valley
 population: "two, permanently"
 controlled-by: elaya
 notable-characters:
+  - adele-pilz
   - anselm-ruck
+  - augustin-melle
   - aunt-mareau
+  - clara-mon
   - doro
   - elaya
+  - ferro
+  - hanno-krebs
   - havel
+  - iris-melle
+  - julian-aubry
+  - leo-kant
+  - mila-vesth
   - nadja-reuss
+  - stefan-lange
+  - the-brosz-family
   - tobin
+  - vera-holt
 tags:
   - inherited
   - faded-grand

@@ -1,8 +1,8 @@
 ---
 name: The Register
-type: artifact
+type: object
 owner: elaya
-status: intact
+status: active
 tags:
   - motif
   - main

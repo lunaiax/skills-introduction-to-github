@@ -6,7 +6,10 @@ population: ""
 controlled-by: ""
 notable-characters:
   - elaya
+  - iris-melle
   - nadja-reuss
+  - stefan-lange
+  - the-brosz-family
 tags: []
 status: standing
 ---
