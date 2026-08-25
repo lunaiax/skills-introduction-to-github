@@ -1,5 +1,5 @@
 ---
-title: The Wrong Yellow
+title: The Wrong Pink
 number: 2
 pov: elaya
 locations:
@@ -20,11 +20,11 @@ word-count: 71
 
 
 
-# Episode 2: The Wrong Yellow
+# Episode 2: The Wrong Pink
 
 ## Logline
 
-The village repaints the bus shelter a yellow that is almost the villa's, and Elaya cannot stop looking at it. She secretly repaints it at night, correctly.
+The village repaints the bus shelter a pink that is almost the hotel's, and Elaya cannot stop looking at it. She secretly repaints it at night, correctly.
 
 ## Intent
 
